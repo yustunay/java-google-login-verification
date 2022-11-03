@@ -1,4 +1,4 @@
-package com.google.sso.Controller;
+package com.google.sso.controller;
 
 import com.google.sso.Service.GoogleVerificationService;
 import com.google.sso.dto.UserIdTokenRequestDTO;
