@@ -1,6 +1,6 @@
 package com.google.sso.controller;
 
-import com.google.sso.Service.GoogleVerificationService;
+import com.google.sso.service.GoogleVerificationService;
 import com.google.sso.dto.UserIdTokenRequestDTO;
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

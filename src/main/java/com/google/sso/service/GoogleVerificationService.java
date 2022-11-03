@@ -1,4 +1,4 @@
-package com.google.sso.Service;
+package com.google.sso.service;
 
 import com.google.sso.dto.UserIdTokenRequestDTO;
 import com.google.sso.dto.UserIdTokenResponseDTO;
